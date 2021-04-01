@@ -24,3 +24,11 @@
 - Uses Flexbox for layout
 - Each component can have its own Stylesheet
 - Platform-specific styling available for iOS and Android
+
+## React Native Core Features
+- JavaScript and React
+- Builds Native Mobile Apps
+- Code is shared between iOS and Android
+- Hot Reloading
+- Superior Developer Experience
+
