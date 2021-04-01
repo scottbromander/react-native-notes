@@ -17,6 +17,7 @@
 - Android
 - 90-95% of the code can be shared between iOS and Android
 
+## Styling in React Native
 - No CSS or Special Language
 - Use JavaScript for styling
 - StyleNames and Values match CSS
